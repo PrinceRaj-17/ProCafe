@@ -4,7 +4,8 @@ Welcome to the Cafe Of Programmers. Have Fun Play around on the website.
 
 ## Have A Cup Of Coffee. :coffee:
 
-**ProCafe** is a website that provides basic tools for programming and having a funtime playing around using other tools.
+**ProCafe** is a website that provides basic tools for programming and having a funtime playing around using other tools. <br />
+Just Discover and Enjoy!
 
 
 ## Tools
