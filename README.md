@@ -16,7 +16,7 @@ Just Discover and Enjoy!
 :full_moon: White Board <br />
 :full_moon: Voice Recoder <br />
 :full_moon: Video Recorder <br />
-:full_moon: Ascii Chart <br /> 
+:full_moon: ASCII Chart <br /> 
 :full_moon: Frequent Regex Templates<br />
 :full_moon: To-do List <br />
 :full_moon: Drawing Pad <br />
