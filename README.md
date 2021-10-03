@@ -26,10 +26,10 @@ Welcome to the Cafe Of Programmers. Have Fun Play around on the website.
 
 ## Developers
 
- ### Prince Rajbhar 
- ### Shivam Nishad
- ### Udit Singh
- ### Anupama Rai
+:adult: Prince Rajbhar 
+:adult: Shivam Nishad
+:adult: Udit Singh
+:curly_haired_woman: Anupama Rai
 
 ## License
 
