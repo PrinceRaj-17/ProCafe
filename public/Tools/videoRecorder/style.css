@@ -1,0 +1,49 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+    font-weight: normal; 
+}
+
+body {
+    background-color: white;
+}
+
+button:focus {
+    outline: none;
+}
+
+
+
+#record-btn {
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    transition: translate(-50%,-50%);
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255,0,0,0.7);
+    border-radius: 50%;
+    border: 10px solid rgb(168, 167, 167);
+}
+
+#record-btn:hover {
+    transition: 0.5s;
+    background-color: rgb(255, 0, 0);
+    border: 10px solid  rgb(154, 152, 152);
+
+}
+
+
+video {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+
+p {
+    color: red;
+    transform: translate(5%, 2%);
+}

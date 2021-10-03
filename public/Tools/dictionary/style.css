@@ -1,0 +1,41 @@
+/*
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+body,
+html {
+  background-color: #ffca93;
+}
+
+*/
+
+input {
+  font-size: 25px;
+}
+
+input:focus {
+  outline: none;
+}
+.centered-elements {
+  margin: 20px;
+}
+
+#result-container {
+  background: white;
+  border-radius: 15px;
+  border: none;
+}
+
+#word {
+  margin: 10px;
+  font-size: 35px;
+}
+
+#definition-container {
+  word-wrap: break-word;
+}
