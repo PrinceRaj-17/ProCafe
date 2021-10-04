@@ -30,7 +30,7 @@ Just Discover and Enjoy!
 :adult: Prince Rajbhar <br />
 :adult: Shivam Nishad <br />
 :adult: Udit Singh <br />
-:curly_haired_woman: Anupama Rai <br />
+:curly_haired_woman: Km. Anupama <br />
 
 ## License
 
